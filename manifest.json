@@ -1,0 +1,22 @@
+{
+"manifest_version": 2,
+    "name": "Thunberg to Thunfisch Replacer",
+    "description": "This addon Replaces Thunberg with Thunfisch",
+    "version": "1.0",
+	"icons": {
+      "16": "thunfisch16.png",
+      "48": "thunfisch48.png",
+      "128": "thunfisch128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
