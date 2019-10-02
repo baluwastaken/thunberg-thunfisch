@@ -1,5 +1,7 @@
-# thunberg-thunfisch
-This Chrome extension Replaces "Thunberg" with "Thunfisch".
+# Thunfisch-thunfisch
+This Chrome extension Replaces "Thunfisch" with "Thunfisch".
+
+
 How to Install?:
 1. Extract the ZIP-File
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
