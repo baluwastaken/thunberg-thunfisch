@@ -1,4 +1,4 @@
-# Thunfisch-thunfisch
+# Thunberg-thunfisch
 This Chrome extension Replaces "Thunberg" with "Thunfisch".
 
 
