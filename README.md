@@ -1,5 +1,5 @@
 # Thunfisch-thunfisch
-This Chrome extension Replaces "Thunfisch" with "Thunfisch".
+This Chrome extension Replaces "Thunberg" with "Thunfisch".
 
 
 How to Install?:
